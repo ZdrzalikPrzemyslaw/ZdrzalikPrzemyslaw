@@ -9,10 +9,16 @@
 
 </br>
 
-## 💻 I’m currently working on
+## 💻 I am currently working on
 
 - [Digital Signal Processing](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
 - [Computer Recognition Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems)
+
+## 🏫 At the moment I am learing
+- [Jakarta EE](https://jakarta.ee/)
+- [Hibernate](https://hibernate.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+
 
 ## 📫 How to reach me
 
