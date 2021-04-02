@@ -14,7 +14,7 @@
 - [Digital Signal Processing](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
 - [Computer Recognition Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems)
 
-## 🏫 At the moment I am learing
+## 📚 At the moment I am learing
 - [Jakarta EE](https://jakarta.ee/)
 - [Hibernate](https://hibernate.org/)
 - [PostgreSQL](https://www.postgresql.org/)
