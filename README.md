@@ -12,6 +12,8 @@
 ## 🏆 Achievements
 - 2nd place in europe in [Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
   - [Solutions](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge)
+- 2nd place in the college competition named as [‘The designing of mobile applications’](https://p.lodz.pl/arch/pl/studenci-pl-zaprojektowali-mobilne-aplikacje) organized by Lodz University of Technology with cooperation of such firms as TomTom and Cybercom Poland.
+  - [Prepared Application](https://github.com/ZdrzalikPrzemyslaw/Self-Diagnosis)
 
 ## 💻 I am currently working on
 
