@@ -9,6 +9,10 @@
 
 </br>
 
+## 🏆 Achievements
+- 2nd place in europe in [Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
+  - [Solutions](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge)
+
 ## 💻 I am currently working on
 
 - [Digital Signal Processing](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
