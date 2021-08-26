@@ -5,7 +5,7 @@
 
 </br>
 
-## I am a 3rd-year Information Technology student focused on learing backend development and broadening my knownledge about Machine Learing
+## I am a 3rd-year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
 
 </br>
 
@@ -20,7 +20,7 @@
 - [Digital Signal Processing](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
 - [Computer Recognition Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems)
 
-## 📚 At the moment I am learing
+## 📚 At the moment I am learning
 - [Jakarta EE](https://jakarta.ee/)
 - [Hibernate](https://hibernate.org/)
 - [PostgreSQL](https://www.postgresql.org/)
