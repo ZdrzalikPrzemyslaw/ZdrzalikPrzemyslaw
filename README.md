@@ -7,6 +7,7 @@
 
 ## I am a 4th-year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
 
+</br>
 
 ## 🏆 Achievements
 - 2nd place in europe in [Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
