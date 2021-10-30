@@ -5,7 +5,7 @@
 
 </br>
 
-## I am a 3rd-year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
+## I am a 4th-year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
 
 </br>
 
@@ -14,17 +14,6 @@
   - [Solutions](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge)
 - 2nd place in the college competition named as [‘The designing of mobile applications’](https://p.lodz.pl/arch/pl/studenci-pl-zaprojektowali-mobilne-aplikacje) organized by Lodz University of Technology with cooperation of such firms as TomTom and Cybercom Poland.
   - [Prepared Application](https://github.com/ZdrzalikPrzemyslaw/Self-Diagnosis)
-
-## 💻 I am currently working on
-
-- [Digital Signal Processing](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
-- [Computer Recognition Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems)
-
-## 📚 At the moment I am learning
-- [Jakarta EE](https://jakarta.ee/)
-- [Hibernate](https://hibernate.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-
 
 ## 📫 How to reach me
 
