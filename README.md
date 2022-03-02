@@ -5,7 +5,7 @@
 
 </br>
 
-## I am a 4th-year Information Technology student focused on learning backend development and broadening my knowledge about Machine Learning
+## I am a Bachelor of Information Technology, currently working on my masters degree. 
 
 </br>
 
