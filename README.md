@@ -5,7 +5,7 @@
 
 </br>
 
-## I'm a graduate in Information Technology with a Master's degree, currently looking for work.
+## I'm a graduate in Information Technology with a Master's degree, working as a Backend Software Engineer
 
 </br>
 
